@@ -1,0 +1,15 @@
+/home/homero/estudos/bytebank_Atendimento/bin/Debug/net6.0/bytebank_Atendimento
+/home/homero/estudos/bytebank_Atendimento/bin/Debug/net6.0/bytebank_Atendimento.deps.json
+/home/homero/estudos/bytebank_Atendimento/bin/Debug/net6.0/bytebank_Atendimento.runtimeconfig.json
+/home/homero/estudos/bytebank_Atendimento/bin/Debug/net6.0/bytebank_Atendimento.dll
+/home/homero/estudos/bytebank_Atendimento/bin/Debug/net6.0/bytebank_Atendimento.pdb
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.csproj.AssemblyReference.cache
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.GeneratedMSBuildEditorConfig.editorconfig
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.AssemblyInfoInputs.cache
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.AssemblyInfo.cs
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.csproj.CoreCompileInputs.cache
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.dll
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/refint/bytebank_Atendimento.dll
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.pdb
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/bytebank_Atendimento.genruntimeconfig.cache
+/home/homero/estudos/bytebank_Atendimento/obj/Debug/net6.0/ref/bytebank_Atendimento.dll
